@@ -1,0 +1,1 @@
+# terraform-aws-myfirsts3bucket
